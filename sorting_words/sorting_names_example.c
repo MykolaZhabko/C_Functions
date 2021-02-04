@@ -1,3 +1,10 @@
+/*
+This is an example program:
+Structure with char array for words which size is limited by WORD_SIZE
+Program is sorting array:   PAULA  DIANA  ANNIE  LILLIAN  EMILY  ROBIN  PEGGY  CRYSTAL  GLADYS  ASHLEE 
+into:                       ANNIE  ASHLEE  CRYSTAL  DIANA  EMILY  GLADYS  LILLIAN  PAULA  PEGGY  ROBIN
+YOU CAN TRY YOUR WORDS  
+  */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
