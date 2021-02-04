@@ -1,3 +1,8 @@
+/*
+names - it is a structure defined in sort_words_a.h
+you can modify acording to your needs.
+*/
+
 #include "sort_words_a.h"
 
 
